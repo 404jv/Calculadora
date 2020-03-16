@@ -24,6 +24,7 @@ body {
     margin: 2px;
     padding: 10px 43px;
     background-color: #777;
+    cursor: pointer;
 }
 
 #botoes {
