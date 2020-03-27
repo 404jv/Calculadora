@@ -16,7 +16,7 @@ body {
     background-color: #777;
     font-size: 26px;
     padding: 20px 40px;
-    width: 70%;
+    width: 69%;
     min-height: 30px;
 }
 
@@ -28,6 +28,8 @@ body {
 }
 
 #botoes {
+    left: 31px;
+    position: relative;
     font-size: 26px;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
